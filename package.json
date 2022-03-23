@@ -11,6 +11,6 @@
   },
   "scripts": {
     "test": "jest",
-    "test-ci": "CI=true jest"
+    "test-ci": "jest"
   }
 }
